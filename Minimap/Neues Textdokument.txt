@@ -1,0 +1,29 @@
+Dinge die Collisione haben:
+	Wasser_Ozean
+	Wasser_Fluss
+	BergWand
+	Durchsichtig
+	Stein
+	House1
+	House2
+	House3
+	House4
+	Schild
+	Mauer
+	Mauer top
+	Palast
+	Temple
+	Zaun
+	Firtree
+	Baum1
+
+
+
+
+
+Dinge die keine Collision haben:
+	Grass
+	Sand
+	Dirtweg
+	Bergweg
+	
